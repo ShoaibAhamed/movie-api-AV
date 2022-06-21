@@ -1,6 +1,6 @@
 ### Objective
 
-Your assignment is to implement a movie streaming dashboard using TypeScript and React.
+Your assignment is to implement a movie streaming dashboard using JS and React.
 
 ### Brief
 
@@ -21,23 +21,11 @@ You are the owner of a movie theater in **Thikkiiana City,** on the Wookiee home
 
 ### Deliverables
 
-Make sure to include all source code in the repository. To make reviewing easier, include a fully built version of your assignment in a folder named **public**.
+
 
 ### Evaluation Criteria
 
--   **TypeScript** or **JavaScript** best practices
--   We're looking for you to produce working code, with enough room to demonstrate how to structure components in a small program.
--   Show us your work through your commit history
--   Completeness: did you complete the features?
--   Correctness: does the functionality act in sensible, thought-out ways?
--   Maintainability: is it written in a clean, maintainable way?
--   Testing: is the system adequately tested?
+
 
 ### CodeSubmit
 
-Please organize, design, test and document your code as if it were
-going into production - then push your changes to the master branch. After you have pushed your code, you may submit the assignment on the assignment page.
-
-All the best and happy coding,
-
-The ActiveViam Team
